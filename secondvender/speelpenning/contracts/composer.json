@@ -1,0 +1,19 @@
+{
+    "name": "speelpenning/contracts",
+    "description": "Contracts for various applications.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gerben Speelpenning",
+            "email": "gerben@speelpenning.nl"
+        }
+    ],
+    "require": {
+        "illuminate/contracts": "5.1.*|5.2.*|5.3.*|5.4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Speelpenning\\Contracts\\": "src/"
+        }
+    }
+}
