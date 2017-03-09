@@ -4,8 +4,8 @@
 ### Install
 
 
- . clone the repository
- . run composer
- . copy the contents of secondvendor folder to vendor
- . run php artisan migrate
+ - clone the repository
+ - run composer
+ - copy the contents of secondvendor folder to vendor
+ - run php artisan migrate
 
